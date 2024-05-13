@@ -1,2 +1,2 @@
-# Internship.md
+# Internship
 Files Belongs to Data Analytics Internship
